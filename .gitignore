@@ -1,0 +1,7 @@
+# Publikujemy tylko te pliki. Profile, screeny, cache i nowe pliki są domyślnie ignorowane.
+/*
+!/.gitignore
+!/README.md
+!/bot.py
+!/requirements.txt
+!/test_bot.py
